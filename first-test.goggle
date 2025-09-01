@@ -7,4 +7,4 @@
 /r/traaaaaaannnnnnnnnns2/$boost=10
 
 ! this should discard literally everything
-*$discard
+$discard,site=*
