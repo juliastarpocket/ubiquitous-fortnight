@@ -3,5 +3,7 @@
 ! public: true
 ! author: Me
 
-/r/AroAceMemes/$boost=4,site=reddit.com
-/r/traaaaaaannnnnnnnnns2/$boost=4,site=reddit.com
+! /r/AroAceMemes/$boost=4,site=reddit.com
+! /r/traaaaaaannnnnnnnnns2/$boost=4,site=reddit.com
+$discard,site=google.com
+$discard,site=reddit.com
