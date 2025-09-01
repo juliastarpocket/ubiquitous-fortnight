@@ -3,7 +3,5 @@
 ! public: true
 ! author: Me
 
-! maybe if I keep it simple it'll work
-
-/r/AroAceMemes/$boost=4
-/r/traaaaaaannnnnnnnnns2/$boost=4
+/r/AroAceMemes/$boost=4,site=reddit.com
+/r/traaaaaaannnnnnnnnns2/$boost=4,site=reddit.com
