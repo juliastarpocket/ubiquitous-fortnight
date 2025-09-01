@@ -3,10 +3,7 @@
 ! public: true
 ! author: Me
 
+! maybe if I keep it simple it'll work
+
 /r/AroAceMemes/$boost=10
 /r/traaaaaaannnnnnnnnns2/$boost=10
-
-! maybe this will work?
-$boost=10,site=https://www.reddit.com/r/AroAceMemes/*
-
-! idk why it isn't working lol
