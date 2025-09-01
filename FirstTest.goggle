@@ -1,9 +1,7 @@
-! name: A test
-! description: It is silly
+! name: asdgidtu
+! description: silly
 ! public: true
-! author: Me
+! author: me
 
-! /r/AroAceMemes/$boost=4,site=reddit.com
-! /r/traaaaaaannnnnnnnnns2/$boost=4,site=reddit.com
 $discard,site=google.com
 $discard,site=reddit.com
