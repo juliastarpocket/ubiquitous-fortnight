@@ -5,3 +5,6 @@
 
 /r/AroAceMemes/$boost=10
 /r/traaaaaaannnnnnnnnns2/$boost=10
+
+! this should discard literally everything
+*$discard
