@@ -1,6 +1,6 @@
 ! name: A test
 ! description: It's silly
-! public: false
+! public: true
 ! author: Me!
 
 /r/AroAceMemes/$boost=10
