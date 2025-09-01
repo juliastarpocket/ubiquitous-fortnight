@@ -1,9 +1,12 @@
+
 ! name: A test
 ! description: A silly test
 ! public: false
 ! author: me
 
+
 $discard
 /r/traaaaaaannnnnnnnnns2/$boost=10
 /r/AroAceMemes/$boost=10
-/tagged/aroace^$boost=10,site=tumblr.com
+/tagged/aroace/^$boost=10,site=tumblr.com
+
