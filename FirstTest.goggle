@@ -16,8 +16,10 @@ $site=arcaea.fandom.com
 $site=projectsekai.fandom.com
 $site=gdbrowser.com
 $site=osu.ppy.sh
+$site=minecraft.wiki
 purple
 lavender
 lilac
 blåhaj
 blahaj
+$site=minecraft.fandom.com,downrank
