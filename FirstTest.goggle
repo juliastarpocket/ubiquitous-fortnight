@@ -9,10 +9,13 @@
 /r/aaaaaaaarrrrro/$boost=10
 /r/egg_irl/$boost=10
 /r/ProjectSekai/$boost=3
+/r/arcaea/$boost=3
 $site=pointercrate.com,boost=3
 $site=sekaipedia.org
+$site=arcaea.fandom.com
 $site=projectsekai.fandom.com
 $site=gdbrowser.com
+$site=osu.ppy.sh
 purple
 lavender
 lilac
