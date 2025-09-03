@@ -25,5 +25,4 @@ lilac
 blåhaj
 blahaj
 $site=minecraft.fandom.com,downrank
-! hi /geometry*.io/$downrank
-//geometry*.io$downrank
+/geometry*.io/$downrank
